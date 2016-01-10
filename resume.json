@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Ha The Tung",
+    "label": "Fullstack Web Developer",
+    "picture": "",
+    "email": "tunght13488@gmail.com",
+    "phone": "+84-91-651-3488",
+    "website": "http://tunght.com",
+    "summary": "Fullstack web developer with 5+ years industry experience",
+    "location": {
+      "address": "Room 306, CT7A Building, The Sparks Residential, Duong Noi Ward, Ha Dong District",
+      "postalCode": "100000",
+      "city": "Hanoi",
+      "countryCode": "VN",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "tunght13488",
+        "url": "https://github.com/tunght13488"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SmartOSC Corporation",
+      "position": "Senior PHP Developer",
+      "website": "http://www.smartosc.com",
+      "startDate": "2012-10",
+      "endDate": "",
+      "summary": "SmartOSC is a leading E-commerce service provider in Vietnam, helping business boost their online profit. We offer simple yet effective solutions, from designing your e-store to creating online strategies and operation management. With a variety of large customers from North America and Europe, SmartOSC has proved its expertise in guiding companies to take advantage of the revenue opportunities in online market place.",
+      "highlights": [
+        "Design the architect and lead the development of the biggest project of the company: build a customized e-commerce system with Symfony 2 for 9 months",
+        "Work in a dedicated team of 5 for a US high profile IT firm, built multiple websites selling coffee machines across the globe",
+        "Work onsite for a US client, build a backend system integrating multiples sale channels with the accounting system"
+      ]
+    },
+    {
+      "company": "FGame Studio",
+      "position": "Web Developer",
+      "website": "http://fgame.vn",
+      "startDate": "2012-02",
+      "endDate": "2012-09",
+      "summary": "FGame Studio is a game development company.",
+      "highlights": [
+        "Develope a web-based visualized text-game with PHP"
+      ]
+    },
+    {
+      "company": "MVC",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2010-07",
+      "endDate": "2011-08",
+      "summary": "MVC is a web company working on out-sourcing projects.",
+      "highlights": [
+        "Develope a real estate news and trading website"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "FPT University",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2007-09",
+      "endDate": "2012-04",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "keywords": [
+        "CodeIgniter",
+        "Symfony2",
+        "Magento",
+        "Laravel",
+        "MeteorJS",
+        "AngularJS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Master",
+      "keywords": [
+        "Linux (Archlinux, Debian, CentOS)",
+        "Mac OS X",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Web Servers",
+      "level": "Master",
+      "keywords": [
+        "Apache",
+        "Nginx"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Caching",
+      "level": "Master",
+      "keywords": [
+        "APC",
+        "Memcached",
+        "Redis",
+        "Varnish",
+        "HTTP Cache"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "SASS",
+        "LESS"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "Vim",
+        "PHPStorm",
+        "WebStorm",
+        "Sublime Text"
+      ]
+    },
+    {
+      "name": "DevOps Tools",
+      "level": "Master",
+      "keywords": [
+        "Vagrant",
+        "Docker",
+        "Ansible",
+        "Shell scripting"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Vietnamese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Video games",
+      "keywords": [
+        "Hearthstone",
+        "Fallout 4",
+        "Counter Strike"
+      ]
+    }
+  ]
+}
